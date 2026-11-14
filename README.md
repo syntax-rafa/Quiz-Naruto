@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/34833927/README.1.md)
+
 # Quiz Naruto: quem fica no seu time?
 
 Quiz de duelos com personagens de Naruto, feito em HTML, CSS e JavaScript puros. Dois personagens entram em campo, você escolhe um e o outro é eliminado. O escolhido enfrenta o próximo da fila, até sobrar apenas um.
