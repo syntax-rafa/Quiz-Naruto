@@ -22,7 +22,7 @@ Quiz de duelos com personagens de Naruto, feito em HTML, CSS e JavaScript puros.
 
 ## Personagens
 
-Naruto, Sasuke, Sakura, Kakashi, Hinata, Gaara, Rock Lee, Itachi, Jiraiya, Tsunade, Shikamaru, Neji, Minato, Tenten, Ino e Temari.
+Naruto, Sasuke, Sakura, Kakashi, Hinata, Gaara, Rock Lee, Itachi, Jiraiya, Tsunade, Shikamaru, Neji, Minato, Tenten, Ino , Temari, Obito, Choji, Kiba e Sai 
 
 ## Tecnologias
 
