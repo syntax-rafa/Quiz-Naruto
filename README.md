@@ -17,7 +17,7 @@ Quiz de duelos com personagens de Naruto, feito em HTML, CSS e JavaScript puros.
 
 - Só 2 personagens ficam em campo por vez.
 - Quem você escolhe continua; quem você não escolhe está fora para sempre.
-- São 16 personagens e 15 duelos por partida.
+- São 20 personagens e 19 duelos por partida.
 - A ordem é sorteada a cada partida, então o resultado pode mudar.
 
 ## Personagens
