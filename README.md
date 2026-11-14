@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34833759/README.md)
+
 # Quiz Naruto: quem fica no seu time?
 
 Quiz em HTML puro (sem instalar nada). Dois personagens de Naruto entram em campo, você escolhe um e o outro é eliminado. O vencedor enfrenta o próximo até sobrar só um.
